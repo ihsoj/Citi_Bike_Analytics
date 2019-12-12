@@ -8,6 +8,8 @@ An analysis of historical Citi Bike ride data in Jersey City, NJ to uncover key 
 ## Data:
 Recent files from https://s3.amazonaws.com/tripdata/index.html were imported into Tableau to create the visualizations. 
 
+![image](https://user-images.githubusercontent.com/51388767/70737655-08dad580-1ce1-11ea-84c6-cef193654eec.png)
+
 
 
 ## Observable Trends & Conclusions:
